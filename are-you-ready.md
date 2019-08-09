@@ -1,7 +1,7 @@
 
 # Are you ready?
 
-[![asciicast](https://asciinema.org/a/261667.svg)](https://asciinema.org/a/261667)
+[![asciicast](https://asciinema.org/a/261673.svg)](https://asciinema.org/a/261673?autoplay=1)
 
 
 ## Install **Connex Playground**
