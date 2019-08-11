@@ -1,4 +1,4 @@
-# How to know which network connected to
+# How to know which network connected to?
 
 The VeChain network is defined and identified by genesis block ID. [VeChain Thor golang implementation](https://github.com/vechain/thor) pre-defines 3 networks: **mainnet**, **testnet** and **solo**. 
 
