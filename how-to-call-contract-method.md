@@ -4,6 +4,8 @@ Calling contract method means performing read-only call to contract method witho
 
 Let's try to play with the builtin contract *Energy*, call its public method *totalSupply* to query total supplied VTHO.
 
+[![asciicast](https://asciinema.org/a/264012.svg)](https://asciinema.org/a/264012?autoplay=1)
+
 ## Step 1
 
 We know the address of *Energy* contract is *0x0000000000000000000000000000456E65726779*. So we can make an *AccountVisitor* named to *acc*
@@ -53,7 +55,7 @@ const result = await totalSupplyMethod.call()
 
 If no error occurred, we'll get the *result* looks like 
 
-```json
+```javascript
 { data:
    '0x000000000000000000000000000000000000000032c04cf852e8a48339152000',
   events: [],
